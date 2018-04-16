@@ -1,0 +1,13 @@
+name: fizzbuzz
+version: 0.1.0
+
+authors:
+  - Farah Schueller <fschueller@suse.de>
+
+targets:
+  fizzbuzz:
+    main: src/fizzbuzz.cr
+
+crystal: 0.24.2
+
+license: MIT
